@@ -1,0 +1,9 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  # مكتبة التأثيرات الزجاجية
+  glassmorphism: ^3.0.0
+  # مكتبة لإمالة البطاقات بشكل 3D
+  flutter_tilt: ^3.0.0
+  # مكتبة للأيقونات والأدوات المميزة
+  flutter_animate: ^4.5.0
